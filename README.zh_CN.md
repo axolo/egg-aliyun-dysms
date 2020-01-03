@@ -14,7 +14,7 @@ npm i @axolo/egg-aliyun-dysms --save
 // config/plugin.js
 exports.alisms = {
   enable: true,
-  package: 'egg-alisms',
+  package: '@axolo/egg-aliyun-dysms',
 };
 ```
 

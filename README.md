@@ -1,6 +1,6 @@
 # egg-aliyun-dysms
 
-Aliyun Dysms plugin for Egg.js.
+[Aliyun Dysms](https://help.aliyun.com/product/44282.html) plugin for Egg.js.
 
 ## Install
 
@@ -14,7 +14,7 @@ npm i @axolo/egg-aliyun-dysms --save
 // {app_root}/config/plugin.js
 exports.aliyunDysms = {
   enable: true,
-  package: 'egg-aliyun-dysms',
+  package: '@axolo/egg-aliyun-dysms',
 };
 ```
 
@@ -27,10 +27,6 @@ exports.aliyunDysms = {
 ```
 
 see [config/config.default.js](config/config.default.js) for more detail.
-
-## Example
-
-<!-- example here -->
 
 ## Questions & Suggestions
 
