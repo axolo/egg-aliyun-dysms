@@ -22,6 +22,8 @@ exports.alisms = {
 
 请到 [config/config.default.js](config/config.default.js) 查看详细配置项说明。
 
+访问 [阿里云短信SDK文档] (https://help.aliyun.com/document_detail/101874.html) 获取更多帮助。
+
 ## 提问交流
 
 请到 [egg issues](https://github.com/axolo/egg-aliyun-dysms/issues) 异步交流。
