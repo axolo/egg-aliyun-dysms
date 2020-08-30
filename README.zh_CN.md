@@ -24,6 +24,8 @@ exports.alisms = {
 
 访问 [阿里云短信SDK文档] (https://help.aliyun.com/document_detail/101874.html) 获取更多帮助。
 
+访问 [阿里云OpenAPI SDK](https://github.com/aliyun/openapi-core-nodejs-sdk) 获取更多帮助。
+
 ## 提问交流
 
 请到 [egg issues](https://github.com/axolo/egg-aliyun-dysms/issues) 异步交流。

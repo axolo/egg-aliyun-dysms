@@ -9,7 +9,7 @@ exports.aliyunDysms = {
   default: {
     endpoint: 'https://dysmsapi.aliyuncs.com',
     apiVersion: '2017-05-25',
-    SendSms: { method: 'POST' },
+    // SendSms: { method: 'POST' },
   },
   // client: {
   //   accessKeyId: '',
